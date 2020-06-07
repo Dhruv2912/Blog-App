@@ -7,12 +7,12 @@ Node.js, MongoDB, Express.js and Semantic-UI
 Install latest version of Node.js.
 Install the required dependencies from package.json using npm install (body-parser, ejs, express, express-sanitizer, mongoose)
 
-###Start MongoDB Server
+### Start MongoDB Server
 ```shell
 mongod
 ```
 
-###Run app from the command line with:
+### Run app from the command line with:
 ```shell
 node app.js
 ```
